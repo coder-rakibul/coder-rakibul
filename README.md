@@ -12,16 +12,16 @@ I am Web Developer Software Developer.💻 Who is passionate about making error-
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ JavaScript / JQuery <br>
-✅ React Js / Next Js / Vue Js / Angular Js
-✅ Tailwind css / Material ui
-✅ Node Js / Express js / Dano
-✅ MongoDB / MySQL / Firebase
-✅ React Native / Electron Js
-✅ TypeScript
+✅ React Js / Next Js / Vue Js / Angular Js\
+✅ Tailwind css / Material ui\
+✅ Node Js / Express js / Dano\
+✅ MongoDB / MySQL / Firebase\
+✅ React Native / Electron Js\
+✅ TypeScript\
 ✅ PHP / Laravale<br>
-✅ Wordpress theme development
-✅ Wordpress theme customization
-✅ Photoshop / Illustrator <br>
+✅ Wordpress theme development\
+✅ Wordpress theme customization\
+✅ Photoshop / Illustrator / Figma Design <br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikder-md-rakibul-islam)](https://github.com/anuraghazra/github-readme-stats)
