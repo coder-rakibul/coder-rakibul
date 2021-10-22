@@ -1,38 +1,37 @@
-![I'm full stack web developer and software developer.](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/p600x600/186522313_531231667905027_5689336127070529896_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEx6LTAaTsnXLlxktUHaO8fYJVu9bPjCplglW71s-MKmVeVAuUmE7naGjir0VgIuGwmFFsKVcVHz819OvWX2Xjh&_nc_ohc=bb-uLZKMPbgAX8r3Zds&_nc_ht=scontent.fdac116-1.fna&oh=8e8971a6bccdd172a07c85d7c649728c&oe=6151705B)
-## Hi there 👋, I'm Rakibul Islam
-### I'm full stack web developer and software developer.
+![I am Web Developer](![I am Web Developer](https://scontent-hkg4-2.xx.fbcdn.net/v/t1.6435-9/243320362_4512914465433042_4236165995292390653_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=19026a&_nc_ohc=dMiRsYGUNWwAX8afeD4&_nc_ht=scontent-hkg4-2.xx&oh=70e397c734efb9197e936f74370650cf&oe=617E0E55)
+##Hay, I'm Ali Hossain 👋
+<p>
+👑 I am Web Developer Software Developer💻<br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
+![Profile views](https://gpvc.arturio.dev/shikder-md-rakibul-islam) 
 
-Hi, my name is Rakibul Islam I am a full-stack web developer and software developer.
-I am able to create almost all types of websites and software.
-I have always built a Responsive and Pixel Perfect website.
-You can visit my repository!
+I am Web Developer Software Developer.💻 Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include Python, Go lang as well as PHP. 
 
-Skills: Html5 / CSS3 / Bootstrap5 / JavaScript / jQuery / React Js / React Native / Node Js / MongoDB / Python / Django / Php / Laravel / Go Lang
+## 👨‍💻 Skills & Experiance: 
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ JavaScript / JQuery <br>
+✅ React Js / Next Js / Vue Js / Angular Js
+✅ Tailwind css / Material ui
+✅ Node Js / Express js / Dano
+✅ MongoDB / MySQL / Firebase
+✅ React Native / Electron Js
+✅ TypeScript
+✅ PHP / Laravale<br>
+✅ Wordpress theme development
+✅ Wordpress theme customization
+✅ Photoshop / Illustrator <br>
 
-- 🔭 I’m currently working on freelancer.com, fiver.com & upwork.com 
-- 🌱 I’m currently learning Go Lang, Python, Java & Ruby 
-- 👯 I’m looking to collaborate on Git Hub 
-- 💬 Ask me about Web development 
-- 📫 How to reach me: To learn to learn 
-- 😄 Pronouns: I love coding 
-- ⚡ Fun fact: I love learning new programming languages in my spare time! 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikder-md-rakibul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shikdermdrakibulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@rakibul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam-aa9735207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/codingrakibul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rakibul2518/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shikder_rakibul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/shikder-md-rakibul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/shikder-md-rakibul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/shikder-md-rakibul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/channel/UCO7hp3rioNSbsRy2EFS1x-A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/rakibul-islam2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.rakibulsoftware.com)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shikder-md-rakibul-islam)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikder-md-rakibul-islam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikder-md-rakibul-islam&show_icons=true)  
+## ☕ Connect with me!
+[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/codingrakibul)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/rakibul2518/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/shikder_rakibul)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/shikder-md-rakibul-islam)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam-aa9735207/)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shikder-md-rakibul-islam)  
 
-![GitHub metrics](https://metrics.lecoq.io/shikder-md-rakibul-islam)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikder-md-rakibul-islam&show_icons=true) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shikder-md-rakibul-islam)  
-
-![Profile views](https://gpvc.arturio.dev/shikder-md-rakibul-islam)  
+## 📧 For Business Inquiries 
+✅  ► rakibulofficial12@gmail.com
+)
