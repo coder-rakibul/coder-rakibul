@@ -1,13 +1,13 @@
 ![I am Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/188056732_531209117907282_4188679445402294322_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=19026a&_nc_ohc=9v2UcB3PClUAX8ThOm6&_nc_ht=scontent.fdac5-1.fna&oh=af2551481da18cf03ed0b2b4b070933f&oe=61992A7B)
 ## Hay, I'm Rakibul Islam 👋
 <p>
-👑 I am Web Developer Software Developer💻<br> 
+👑 I am a professional web developer and software developer💻<br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/shikder-md-rakibul-islam) 
 
-I am Web Developer Software Developer.💻 Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include Python, Go lang as well as PHP. 
+I am a professional web developer and software developer.💻 Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include Python, Go lang as well as PHP. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
