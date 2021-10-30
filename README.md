@@ -12,7 +12,7 @@ I am a professional web developer and software developer.💻 Who is passionate 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: rakibulofficial@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I am thinking of creating a software company.
 
 ### Things I code with
