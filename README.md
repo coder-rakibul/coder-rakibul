@@ -1,5 +1,8 @@
 ![I am Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/188056732_531209117907282_4188679445402294322_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=19026a&_nc_ohc=9v2UcB3PClUAX8ThOm6&_nc_ht=scontent.fdac5-1.fna&oh=af2551481da18cf03ed0b2b4b070933f&oe=61992A7B)
-## Hay, I'm Rakibul Islam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 style='font-size: 40px' align="center">
+    Hay, I'm Rakibul Islam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+</h1><br/><br/>
+
 <p>
 👑 I am a professional web developer and software developer💻<br> 
 🖊️ Love to write code <br> 
