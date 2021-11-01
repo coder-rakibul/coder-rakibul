@@ -10,7 +10,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/shikder-md-rakibul-islam) 
  
- <font size="3"> I am a professional web developer and software developer.💻 Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include Python, Go lang as well as PHP. </font> 
+  ### I am a professional web developer and software developer.💻 Who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with JavaScript but some technologies I enjoy working with include Python, Go lang as well as PHP. 
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
